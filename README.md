@@ -1,4 +1,4 @@
-# Hi there/Gitler 👋
+# Hi there/Gtlr 👋
 
 
 
