@@ -1,4 +1,4 @@
-# Hi there/Gtlr 👋
+# Hi there 👋
 
 
 
