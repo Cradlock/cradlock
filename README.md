@@ -47,7 +47,7 @@
 ### git config --global user.name "Your Name"
 #### Установка имени пользователя
 ### git config --global user.email "you@example.com"
-### Установка email
+#### Установка email
 ### git config --global core.editor "code --wait"
 #### Установка редактора
 ### git init 
