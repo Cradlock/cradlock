@@ -44,8 +44,8 @@
 ### 📌 Статистика GitHub
 
 <p align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=grok&show_icons=true&theme=tokyonight" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grok&layout=compact&theme=tokyonight" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=cradlock&show_icons=true&theme=tokyonight" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cradlock&layout=compact&theme=tokyonight" />
 </p>
 
 
