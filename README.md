@@ -16,7 +16,7 @@
 - VS Code
 
 **Дополнительные стеки**
-- C++(база)     \
--                |---> Доп стеки библиотеки (SFML,Vulkan SDK,Window api)
-- С (база)      /
+- C++(база)
+- С (база)      
+   (SFML,Vulkan SDK,Window api)
 
