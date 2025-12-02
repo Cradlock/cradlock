@@ -1,7 +1,7 @@
 <h3 align="center">Backend Developer • Python • Django • REST • Linux</h3>
 
 ---
-### 🧰 Технологии & Инструменты
+### Технологии & Инструменты
 
 **Backend**
 - Python • Django • DRF • FastAPI  
